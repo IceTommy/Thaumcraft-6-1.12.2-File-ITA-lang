@@ -1,4 +1,4 @@
-# Thaumcraft6 ITA LANG
+# Thaumcraft6 1.12.2 ITA LANG
 File .lang di thaumcraft 6 per 1.12.2 tradotto in italiano
 ISTRUZIONI:
 1) aprire la mod di thaumcraft 1.12.2 (Con 7-zip, winrar  ecc)
